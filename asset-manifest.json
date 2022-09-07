@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gta-app/static/css/main.fa95dbb9.css",
-    "main.js": "/gta-app/static/js/main.de85a880.js",
-    "static/js/787.1c5146d0.chunk.js": "/gta-app/static/js/787.1c5146d0.chunk.js",
-    "index.html": "/gta-app/index.html",
-    "main.fa95dbb9.css.map": "/gta-app/static/css/main.fa95dbb9.css.map",
-    "main.de85a880.js.map": "/gta-app/static/js/main.de85a880.js.map",
-    "787.1c5146d0.chunk.js.map": "/gta-app/static/js/787.1c5146d0.chunk.js.map"
+    "main.css": "/pradeep.git.io/static/css/main.fa95dbb9.css",
+    "main.js": "/pradeep.git.io/static/js/main.013be494.js",
+    "static/js/787.1c5146d0.chunk.js": "/pradeep.git.io/static/js/787.1c5146d0.chunk.js",
+    "index.html": "/pradeep.git.io/index.html",
+    "main.fa95dbb9.css.map": "/pradeep.git.io/static/css/main.fa95dbb9.css.map",
+    "main.013be494.js.map": "/pradeep.git.io/static/js/main.013be494.js.map",
+    "787.1c5146d0.chunk.js.map": "/pradeep.git.io/static/js/787.1c5146d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa95dbb9.css",
-    "static/js/main.de85a880.js"
+    "static/js/main.013be494.js"
   ]
 }
