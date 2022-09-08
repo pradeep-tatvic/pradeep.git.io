@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { Button, Card, Carousel, Col, Container, Row } from "react-bootstrap"
 import { useNavigate, useParams } from "react-router-dom";
 import list from '../constants/product-list.json';
