@@ -1,0 +1,122 @@
+[
+    {
+        "id": "01",
+        "img": "https://m.media-amazon.com/images/I/81vHlgI1+dL._UY879_.jpg",
+        "title": "Veirdo Mens Oversized T Shirts, Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for",
+        "price": "332",
+        "category": "clothing",
+        "description": "Veirdo Mens Oversized T Shirts, Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for Men, Round Neck Drop Shoulder Tshirt"
+    },
+    {
+        "id": "02",
+        "img": "https://m.media-amazon.com/images/I/81vHlgI1+dL._UY879_.jpg",
+        "title": "T Shirts, Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for",
+        "price": "332",
+        "category": "clothing",
+        "description": "Veirdo Mens Oversized T Shirts, Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for Men, Round Neck Drop Shoulder Tshirt"
+    },
+    {
+        "id": "03",
+        "img": "https://m.media-amazon.com/images/I/81vHlgI1+dL._UY879_.jpg",
+        "title": "Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for",
+        "price": "332",
+        "category": "clothing",
+        "description": "Veirdo Mens Oversized T Shirts, Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for Men, Round Neck Drop Shoulder Tshirt"
+    },
+    {
+        "id": "04",
+        "img": "https://m.media-amazon.com/images/I/81vHlgI1+dL._UY879_.jpg",
+        "title": "Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for",
+        "price": "332",
+        "category": "clothing",
+        "description": "Veirdo Mens Oversized T Shirts, Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for Men, Round Neck Drop Shoulder Tshirt"
+    },
+    {
+        "id": "05",
+        "img": "https://m.media-amazon.com/images/I/81vHlgI1+dL._UY879_.jpg",
+        "title": "Cotton Half Sleeve Printed Oversized T-Shirts for",
+        "price": "332",
+        "category": "clothing",
+        "description": "Veirdo Mens Oversized T Shirts, Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for Men, Round Neck Drop Shoulder Tshirt"
+    },
+    {
+        "id": "06",
+        "img": "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
+        "title": "OnePulse NORD",
+        "price": "56,544",
+        "category": "mobiles",
+        "description": "Display Features Dark mode Operating System Oxygen OS based on Android 12 Battery & Charging: 5000 mAh with 33W SuperVOOC"
+    },
+    {
+        "id": "07",
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/71V--WZVUIL._AC._SR360,460.jpg",
+        "title": "OnePulse CE 2",
+        "price": "23,544",
+        "category": "mobiles",
+        "description": "Display Features Dark mode Operating System Oxygen OS based on Android 12 Battery & Charging: 5000 mAh with 33W SuperVOOC"
+    },
+    {
+        "id": "08",
+        "img": "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
+        "title": "ONE PULSE NORD",
+        "price": "43,544",
+        "category": "mobiles",
+        "description": "Display Features Dark mode Operating System Oxygen OS based on Android 12 Battery & Charging: 5000 mAh with 33W SuperVOOC"
+    },
+    {
+        "id": "09",
+        "img": "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
+        "title": "i Phone 13",
+        "price": "56,544",
+        "category": "mobiles",
+        "description": "Display Features Dark mode Operating System Oxygen OS based on Android 12 Battery & Charging: 5000 mAh with 33W SuperVOOC"
+    },
+    {
+        "id": "10",
+        "img": "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
+        "title": "Xiomi Note 12",
+        "price": "12,544",
+        "category": "mobiles",
+        "description": "Display Features Dark mode Operating System Oxygen OS based on Android 12 Battery & Charging: 5000 mAh with 33W SuperVOOC"
+    },
+    {
+        "id": "11",
+        "img": "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
+        "title": "i Phone 15",
+        "price": "87,544",
+        "category": "mobiles",
+        "description": "Display Features Dark mode Operating System Oxygen OS based on Android 12 Battery & Charging: 5000 mAh with 33W SuperVOOC"
+    },
+    {
+        "id": "12",
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/41DHBo5r6hL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "ASUS Vivo book",
+        "price": "46,645",
+        "category": "laptops",
+        "description": "Display: 14-Inch (35.56 cms) LED-Backlit, FHD (1920 x 1080) 16:9, 220nits, NanoEdge bezel, Anti-Glare Plane with 45% NTSC, 82% Screen-To-Body Ratio"
+    },
+    {
+        "id": "13",
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/41DHBo5r6hL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "HP Probook",
+        "price": "98,645",
+        "category": "laptops",
+        "description": "Display: 14-Inch (35.56 cms) LED-Backlit, FHD (1920 x 1080) 16:9, 220nits, NanoEdge bezel, Anti-Glare Plane with 45% NTSC, 82% Screen-To-Body Ratio"
+    },
+    {
+        "id": "14",
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/41DHBo5r6hL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "VIO",
+        "price": "65,645",
+        "category": "laptops",
+        "description": "Display: 14-Inch (35.56 cms) LED-Backlit, FHD (1920 x 1080) 16:9, 220nits, NanoEdge bezel, Anti-Glare Plane with 45% NTSC, 82% Screen-To-Body Ratio"
+    },
+    {
+        "id": "15",
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/41DHBo5r6hL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "Dell ras",
+        "price": "76,645",
+        "category": "laptops",
+        "description": "Display: 14-Inch (35.56 cms) LED-Backlit, FHD (1920 x 1080) 16:9, 220nits, NanoEdge bezel, Anti-Glare Plane with 45% NTSC, 82% Screen-To-Body Ratio"
+    }
+]

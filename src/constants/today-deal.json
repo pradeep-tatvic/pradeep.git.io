@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "img": "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
+        "title": "Xiomi Note 12",
+        "price": "12,544",
+        "category": "mobiles",
+        "description": "Display Features Dark mode Operating System Oxygen OS based on Android 12 Battery & Charging: 5000 mAh with 33W SuperVOOC"
+    },
+    {
+        "id": "02",
+        "img": "https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
+        "title": "i Phone 15",
+        "price": "87,544",
+        "category": "mobiles",
+        "description": "Display Features Dark mode Operating System Oxygen OS based on Android 12 Battery & Charging: 5000 mAh with 33W SuperVOOC"
+    },
+    {
+        "id": "03",
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/41DHBo5r6hL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "VIO",
+        "price": "65,645",
+        "category": "laptops",
+        "description": "Display: 14-Inch (35.56 cms) LED-Backlit, FHD (1920 x 1080) 16:9, 220nits, NanoEdge bezel, Anti-Glare Plane with 45% NTSC, 82% Screen-To-Body Ratio"
+    },
+    {
+        "id": "04",
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/41DHBo5r6hL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "Dell ras",
+        "price": "76,645",
+        "category": "laptops",
+        "description": "Display: 14-Inch (35.56 cms) LED-Backlit, FHD (1920 x 1080) 16:9, 220nits, NanoEdge bezel, Anti-Glare Plane with 45% NTSC, 82% Screen-To-Body Ratio"
+    },
+    {
+        "id": "05",
+        "img": "https://m.media-amazon.com/images/I/81vHlgI1+dL._UY879_.jpg",
+        "title": "Cotton Half Sleeve Printed Oversized T-Shirts for",
+        "price": "332",
+        "category": "clothing",
+        "description": "Veirdo Mens Oversized T Shirts, Drop Shoulder Tshirt for Men & Boys, Cotton Half Sleeve Printed Oversized T-Shirts for Men, Round Neck Drop Shoulder Tshirt"
+    }
+]
