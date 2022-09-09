@@ -6,8 +6,14 @@ import { useNavigate } from "react-router-dom";
 const Home = () => {
     const navigate = useNavigate();
 
-    const redirect = async (id: string) => {
-        navigate(`/checkout/${id}`, { replace: true });
+    const redirect = async (ele: any) => {
+        const win = window as any;
+       win.datalayer.push({
+            'bookCategory': 'fiction',
+            'bookTitle': 'Cien años de soledad',
+            'bookAuthor': 'Gabriel García Márquez'
+        })
+        navigate(`/checkout/${ele.id}`, { replace: true });
     }
     return (
         <Container>
@@ -55,7 +61,7 @@ const Home = () => {
                                             <Card.Text>
                                                 {ele.description}
                                             </Card.Text>
-                                            <Button variant="primary" onClick={() => redirect(ele.id)}>Buy Now</Button>
+                                            <Button variant="primary" onClick={() => redirect(ele)}>Buy Now</Button>
                                         </Card.Body>
                                     </Card>
                                 </Col>
@@ -81,7 +87,7 @@ const Home = () => {
                                             <Card.Text>
                                                 {ele.description}
                                             </Card.Text>
-                                            <Button variant="primary" onClick={() => redirect(ele.id)}>Buy Now</Button>
+                                            <Button variant="primary" onClick={() => redirect(ele)}>Buy Now</Button>
                                         </Card.Body>
                                     </Card>
                                 </Col>
