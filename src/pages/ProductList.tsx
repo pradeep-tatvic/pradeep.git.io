@@ -4,8 +4,6 @@ import list from '../constants/product-list.json';
 
 const ProductList = () => {
     const { category } = useParams();
-    console.log(category);
-    
     const navigate = useNavigate();
 
     const redirect = async (id: string) => {
